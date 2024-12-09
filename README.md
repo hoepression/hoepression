@@ -1,4 +1,4 @@
-![Banner](Banner.png)
+
 ---
 ![Banner](Banner.png)
 # 👋 Hi, I'm **Ashwin Issac**  
