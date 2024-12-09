@@ -1,4 +1,3 @@
-Here's a polished **GitHub profile README** based on the details provided:
 
 ---
 
@@ -15,7 +14,7 @@ Welcome to my GitHub! I'm a passionate Computer Science Engineer specializing in
   **Mar Athanasius College of Engineering**, Kothamangalam (Graduating June 2025)
 
 - 💼 **Internships & Leadership**:  
-  - **Data Science Intern**: Developed actionable insights and strategic roadmaps for business impact.  
+  - **Data Science Intern(Thakshashila R&D Pvt Ltd)**: Developed actionable insights and strategic roadmaps for business impact.  
   - **Documentation Lead (IEEE - Light the Lives)**: Led efforts in a sustainable energy project, bringing electricity to tribal communities.  
   - **Vice Secretary (IEEE - SIGHT)**: Streamlined communications with IEEE headquarters to ensure effective project reporting.  
   - **Design & Publicity Head (MACE Debate Club)**: Boosted participation by 40% with creative promotional strategies.
@@ -23,10 +22,8 @@ Welcome to my GitHub! I'm a passionate Computer Science Engineer specializing in
 ---
 
 ## 💻 Skills
-- **Programming**: Python, C++, SQL  
-- **Technologies**: Arduino, Raspberry Pi, ROS2, LLM, SLAM  
-- **Libraries**: NLP, PALM  
-- **Algorithms**: A* Pathfinding, Association Rule Mining  
+- **Programming**: Python, C++, SQL, PHP   
+- **Technologies**: Arduino, Raspberry Pi, ROS2  
 - **Languages**: English (Proficient), Hindi (Proficient), Malayalam (Proficient)
 
 ---
@@ -52,7 +49,8 @@ Welcome to my GitHub! I'm a passionate Computer Science Engineer specializing in
 
 ## 📜 Certifications
 - **NPTEL**: Python for Data Science  
-
+- **UDEMY: Krish Naik** :Complete Data Science,Machine Learning,DL,NLP Bootcamp
+ 
 ---
 
 ## 📬 Let's Connect!
