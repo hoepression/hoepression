@@ -1,6 +1,6 @@
-![](./Banner%20Image.png)
+![Banner](Banner.png)
 ---
-
+![Banner](Banner.png)
 # 👋 Hi, I'm **Ashwin Issac**  
 ### 🚀 Aspiring Data Scientist | 🎓 Computer Science Engineer | 💡 Innovator  
 
