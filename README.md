@@ -1,4 +1,4 @@
-![](./assets/Banner%20Image.png)
+![](./Banner%20Image.png)
 ---
 
 # 👋 Hi, I'm **Ashwin Issac**  
