@@ -55,7 +55,6 @@ Welcome to my GitHub! I'm a passionate Computer Science Engineer specializing in
 
 ## 📬 Let's Connect!
 - **Email**: ashwinissac064@gmail.com  
-- **Phone**: +91 9188808307  
 - **LinkedIn**: [Ashwin Issac](https://www.linkedin.com/in/ashwissac9/)  
 
 ---
